@@ -23,7 +23,7 @@
 // =====================================================
 
 const char* WIFI_SSIDS[] = {
-  "IOTCamp01",
+  "IOTCamp0X",
   "IOTCamp02",
   "IOTCamp03"
 };
